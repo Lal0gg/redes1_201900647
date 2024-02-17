@@ -1,4 +1,4 @@
-# **Laboratorio de Redes de Computadoras 1📡📟**
+# **Laboratorio de Redes de Computadoras 1📟**
 
  **Carnet** | **Nombre** |
 | ------ | ------ |
