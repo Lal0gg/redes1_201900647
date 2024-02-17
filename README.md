@@ -1,2 +1,8 @@
-# redes1_201900647
-Repositorio de la Práctica 1 del curso Redes de Computadoras 1 ☝️🥸
+# **Laboratorio de Redes de Computadoras 1📡📟**
+
+ **Carnet** | **Nombre** |
+| ------ | ------ |
+| 201900647 | Eduardo Josué González Cifuentes |
+
+- ## Prácticas
+    - #### [`💾 Práctica 1`](./Practica1/)
