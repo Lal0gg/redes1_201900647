@@ -197,31 +197,26 @@ Empezamos con la captura de paquetes en la VPC de Atención al cliente.
 
 Acá se puede observar el ARP manda los paquetes a todas las VPCs.
 
-<div align="center"><img src="./Images/Captura de pantalla 2024-02-16 234952
-.png" width="600"/></div>
+<div align="center"><img src="./Images/Captura de pantalla 2024-02-16 234952.png" width="600"/></div>
 
 <br>
 
 
-<div align="center"><img src="./Images/Captura de pantalla 2024-02-16 235001
-.png" width="600"/></div>
+<div align="center"><img src="./Images/Captura de pantalla 2024-02-16 235001.png" width="600"/></div>
 
 <br>
 
 Como se puede ver acá aparece con cheque el paquete las veces que se realizó el ping.
 
-<div align="center"><img src="./Images/Captura de pantalla 2024-02-16 235219
-.png" width="600"/></div>
+<div align="center"><img src="./Images/Captura de pantalla 2024-02-16 235219.png" width="600"/></div>
 
 <br>
 
-<div align="center"><img src="./Images/Captura de pantalla 2024-02-16 235303
-.png" width="600"/></div>
+<div align="center"><img src="./Images/Captura de pantalla 2024-02-16 235303.png" width="600"/></div>
 
 
 Y por ultimo un `arp -a` para ver la tabla ARP de la VPC de Atención al cliente.
 
 <br>
 
-<div align="center"><img src="./Images/Captura de pantalla 2024-02-17 000617
-.png" width="600"/></div>
+<div align="center"><img src="./Images/Captura de pantalla 2024-02-17 000617.png" width="600"/></div>
