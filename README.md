@@ -6,3 +6,4 @@
 
 - ## Prácticas
     - #### [`💾 Práctica 1`](./Practica1/)
+    - #### [`💾 Proyecto 1`](./Proyecto1/)
