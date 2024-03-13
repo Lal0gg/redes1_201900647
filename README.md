@@ -4,6 +4,6 @@
 | ------ | ------ |
 | 201900647 | Eduardo Josué González Cifuentes |
 
-- ## Prácticas
+- ## Prácticas Y Proyectos
     - #### [`💾 Práctica 1`](./Practica1/)
     - #### [`💾 Proyecto 1`](./Proyecto1/)
